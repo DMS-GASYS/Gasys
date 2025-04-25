@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>	
+		body{background: #ecf0f1;}			
+		LOGO2{
+			position: absolute;
+			left:400px;
+			top: 100px;}						
+	</style>
+</head>
+<body>
+    <?php
+		include "C:/XAMPP/htdocs/GUNDAR/MENU.php";	
+		OPENMENU();
+    ?>
+    <LOGO2><img src="LOGO_GUNDAR.png" width="200%" height="200%"></LOGO2>
+</body>
+</html>
